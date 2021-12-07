@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "615453121965",
+    "project_id": "carrot-eb33a",
+    "storage_bucket": "carrot-eb33a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615453121965:android:e25aa6e53dfb0621c41524",
+        "android_client_info": {
+          "package_name": "com.example.softscope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615453121965-acem8hccqsa32mi7veo8qlmkl04nhofi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.softscope",
+            "certificate_hash": "6807de0070ad82452a9c96ccdd2fe3b4a23f4fb3"
+          }
+        },
+        {
+          "client_id": "615453121965-sv1nmc1r1ldrbq45l24ptq2f6pt5a1j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNPdmegyzv6aYG_2RyAn9QA0He_WE4FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615453121965-sv1nmc1r1ldrbq45l24ptq2f6pt5a1j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
